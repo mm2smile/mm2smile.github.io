@@ -1,0 +1,45 @@
+body {
+    font-size: 15pt;
+    background-color: black;
+    color: white;
+}
+button {
+  background-color: antiquewhite;
+}
+input[type=number] {
+  width: 7em;
+}
+table {
+  background-color: black;
+}
+#ems {
+  color: orangered;
+  font-size: 0.8em;
+}
+.dc1Cl {
+  color: #008800;
+}
+.dc2Cl {
+  color: #00FFFF;
+}
+.dc3Cl {
+  color: #FFFF00;
+}
+.dc4Cl {
+  color: #FF00FF;
+}
+.dc5Cl {
+  color: #FF0000;
+}
+.dc6Cl {
+  color: #000088;
+}
+.gry {
+  background-color: darkslategray;
+}
+.shw {
+  background-color: whitesmoke;
+}
+.hid {
+  background-color: darkslateblue;
+}
